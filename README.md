@@ -1,0 +1,1 @@
+The GPA Calculator is a web application designed to help students easily calculate their GPA scores and track their academic progress per semester. It provides a user-friendly interface and includes features like user registration, login, GPA calculation, and password reset.
